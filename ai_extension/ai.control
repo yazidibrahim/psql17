@@ -1,0 +1,5 @@
+# ai.control
+comment = 'AI-powered natural language to SQL query generation'
+default_version = '1.0.0'
+relocatable = true
+module_pathname = '$libdir/ai_chat'

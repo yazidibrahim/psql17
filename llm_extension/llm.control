@@ -1,0 +1,10 @@
+comment = 'LLM inference using GGUF models'
+default_version = '1.0'
+module_pathname = '$libdir/llm'
+relocatable = 
+
+
+
+/home/cybrosys/Downloads/tinyllama-1.1b-chat-v1.0.Q2_K.gguf
+
+SELECT init_llm('/home/cybrosys/Downloads/tinyllama-1.1b-chat-v1.0.Q2_K.gguf');

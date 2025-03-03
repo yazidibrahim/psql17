@@ -1,0 +1,4 @@
+comment = 'AI chat extension using GGUF model'
+default_version = '1.0'
+relocatable = true
+module_pathname = '$libdir/ai'

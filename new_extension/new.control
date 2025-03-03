@@ -1,0 +1,4 @@
+comment = 'new key-value cache extension'
+default_version = '1.0'
+module_pathname = '/home/cybrosys/PSQL/postgresql/lib/new.so'
+relocatable = true

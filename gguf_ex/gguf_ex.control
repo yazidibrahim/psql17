@@ -1,0 +1,5 @@
+# gguf_ex extension
+comment = 'GGUF model integration extension'
+default_version = '1.0'
+module_pathname = '$libdir/gguf_ex'
+relocatable = true

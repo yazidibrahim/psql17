@@ -1,0 +1,4 @@
+comment = 'PostgreSQL AI Query Generator Extension using Gemma 2B'
+default_version = '1.0'
+relocatable = false
+requires = 'plpython3u'

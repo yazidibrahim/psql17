@@ -1,0 +1,5 @@
+# psql_autocomplete extension
+comment = 'Interactive query autocompletion for psql (client-side)'
+default_version = '1.0'
+module_pathname = '$libdir/psql_autocomplete'
+relocatable = true
